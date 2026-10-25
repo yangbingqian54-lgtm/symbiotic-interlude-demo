@@ -1,0 +1,52 @@
+{
+  "name": "共生间隙",
+  "englishName": "Symbiotic Interlude",
+  "version": "5.0.0-miao-style",
+  "url": "https://yangbingqian54-lgtm.github.io/symbiotic-interlude-demo/miao/",
+  "overviewUrl": "https://yangbingqian54-lgtm.github.io/symbiotic-interlude-demo/miao/project.html",
+  "sourceRepository": "https://github.com/YANGBQ-Iris/living-embroidery/tree/web-ui",
+  "deploymentRepository": "https://github.com/yangbingqian54-lgtm/symbiotic-interlude-demo",
+  "runtime": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Canvas 2D",
+    "Web Audio",
+    "IndexedDB"
+  ],
+  "features": {
+    "orchid": "模拟触碰艺术",
+    "round": "模拟浇灌艺术",
+    "white": "日记",
+    "violet": "互动记录心情"
+  },
+  "input": [
+    "pointer",
+    "touch",
+    "keyboard",
+    "manual strength"
+  ],
+  "output": [
+    "demo artwork JPEG",
+    "local collection",
+    "growth photos",
+    "journal"
+  ],
+  "storage": {
+    "kind": "browser-local",
+    "database": "symbiotic-interlude-v4",
+    "cloudSync": false
+  },
+  "notConnected": [
+    "real pressure sensor",
+    "soil moisture sensor",
+    "Arduino serial",
+    "TouchDesigner",
+    "online AI generation",
+    "Gaussian splatting"
+  ],
+  "aiRole": "前期视觉参考 素材与开发辅助",
+  "openingSeconds": 8.5,
+  "mobileVerification": "仅检查桌面与手机浏览器视口，此风格版未做真实手机网络验证",
+  "style": "基于提供参考图的粉青团花与银白旋线再设计，四株前景植物保持原图"
+}

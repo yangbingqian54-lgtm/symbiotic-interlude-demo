@@ -1,0 +1,7 @@
+{
+  "name": "symbiotic-interlude",
+  "version": "5.0.0-miao-style",
+  "kind": "static",
+  "entry": "index.html",
+  "overview": "project.html"
+}
