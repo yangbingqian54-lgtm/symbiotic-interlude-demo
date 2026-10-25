@@ -1,0 +1,7 @@
+{
+  "name": "symbiotic-interlude",
+  "version": "4.8.7",
+  "kind": "static",
+  "entry": "index.html",
+  "overview": "project.html"
+}
